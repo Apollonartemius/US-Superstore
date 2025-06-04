@@ -1,4 +1,4 @@
-# Corporate Sales & Profit Analysis Dashboard
+# Corporate Sales & Profit Analysis Dashboard using IBM COGNOS
 
 # Overview
 This project presents a detailed business intelligence dashboard that analyzes sales, profit, shipping costs, and discount impacts across product categories and geographic regions using the SuperStoreUS-2015 dataset. The insights aim to help business stakeholders identify growth opportunities and areas of concern—ultimately contributing to more informed strategic decisions.
